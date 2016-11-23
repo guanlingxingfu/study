@@ -1,0 +1,6 @@
+F:\学习\第一天\学习Cshap高级篇\003正则表达式\bin\Debug\003正则表达式.exe.config
+F:\学习\第一天\学习Cshap高级篇\003正则表达式\obj\Debug\003正则表达式.csprojResolveAssemblyReference.cache
+F:\学习\第一天\学习Cshap高级篇\003正则表达式\bin\Debug\003正则表达式.exe
+F:\学习\第一天\学习Cshap高级篇\003正则表达式\bin\Debug\003正则表达式.pdb
+F:\学习\第一天\学习Cshap高级篇\003正则表达式\obj\Debug\003正则表达式.exe
+F:\学习\第一天\学习Cshap高级篇\003正则表达式\obj\Debug\003正则表达式.pdb

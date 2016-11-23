@@ -1,0 +1,5 @@
+F:\学习\第一天\学习Cshap高级篇\006func委托\bin\Debug\006func委托.exe.config
+F:\学习\第一天\学习Cshap高级篇\006func委托\bin\Debug\006func委托.exe
+F:\学习\第一天\学习Cshap高级篇\006func委托\bin\Debug\006func委托.pdb
+F:\学习\第一天\学习Cshap高级篇\006func委托\obj\Debug\006func委托.exe
+F:\学习\第一天\学习Cshap高级篇\006func委托\obj\Debug\006func委托.pdb

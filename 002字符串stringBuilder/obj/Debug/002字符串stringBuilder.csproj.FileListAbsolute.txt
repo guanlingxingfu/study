@@ -1,0 +1,6 @@
+F:\学习\第一天\学习Cshap高级篇\002字符串stringBuilder\bin\Debug\002字符串stringBuilder.exe.config
+F:\学习\第一天\学习Cshap高级篇\002字符串stringBuilder\bin\Debug\002字符串stringBuilder.exe
+F:\学习\第一天\学习Cshap高级篇\002字符串stringBuilder\bin\Debug\002字符串stringBuilder.pdb
+F:\学习\第一天\学习Cshap高级篇\002字符串stringBuilder\obj\Debug\002字符串stringBuilder.csprojResolveAssemblyReference.cache
+F:\学习\第一天\学习Cshap高级篇\002字符串stringBuilder\obj\Debug\002字符串stringBuilder.exe
+F:\学习\第一天\学习Cshap高级篇\002字符串stringBuilder\obj\Debug\002字符串stringBuilder.pdb

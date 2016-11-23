@@ -1,0 +1,9 @@
+F:\学习\第一天\学习Cshap高级篇\011事件\bin\Debug\011事件.exe.config
+F:\学习\第一天\学习Cshap高级篇\011事件\bin\Debug\011事件.exe
+F:\学习\第一天\学习Cshap高级篇\011事件\bin\Debug\011事件.pdb
+F:\学习\第一天\学习Cshap高级篇\011事件\obj\Debug\011事件.csprojResolveAssemblyReference.cache
+F:\学习\第一天\学习Cshap高级篇\011事件\obj\Debug\011事件.exe
+F:\学习\第一天\学习Cshap高级篇\011事件\obj\Debug\011事件.pdb
+F:\study\011事件\bin\Debug\011事件.exe.config
+F:\study\011事件\obj\Debug\011事件.exe
+F:\study\011事件\obj\Debug\011事件.pdb

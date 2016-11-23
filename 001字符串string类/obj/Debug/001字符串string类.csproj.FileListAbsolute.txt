@@ -1,0 +1,9 @@
+F:\学习\第一天\学习Cshap高级篇\001字符串string类\bin\Debug\001字符串string类.exe.config
+F:\学习\第一天\学习Cshap高级篇\001字符串string类\obj\Debug\001字符串string类.csprojResolveAssemblyReference.cache
+F:\学习\第一天\学习Cshap高级篇\001字符串string类\bin\Debug\001字符串string类.exe
+F:\学习\第一天\学习Cshap高级篇\001字符串string类\bin\Debug\001字符串string类.pdb
+F:\学习\第一天\学习Cshap高级篇\001字符串string类\obj\Debug\001字符串string类.exe
+F:\学习\第一天\学习Cshap高级篇\001字符串string类\obj\Debug\001字符串string类.pdb
+F:\study\001字符串string类\bin\Debug\001字符串string类.exe.config
+F:\study\001字符串string类\obj\Debug\001字符串string类.exe
+F:\study\001字符串string类\obj\Debug\001字符串string类.pdb
