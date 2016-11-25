@@ -1,0 +1,6 @@
+F:\study\013LINq\bin\Debug\013LINq.exe.config
+F:\study\013LINq\bin\Debug\013LINq.exe
+F:\study\013LINq\bin\Debug\013LINq.pdb
+F:\study\013LINq\obj\Debug\013LINq.csprojResolveAssemblyReference.cache
+F:\study\013LINq\obj\Debug\013LINq.exe
+F:\study\013LINq\obj\Debug\013LINq.pdb

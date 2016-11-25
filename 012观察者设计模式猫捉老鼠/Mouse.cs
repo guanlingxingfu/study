@@ -12,10 +12,11 @@ namespace _012观察者设计模式猫捉老鼠
     {
         private string name;
         private string color;
-        public Mouse(string name,string color)
+        public Mouse(string name,string color,Cat cat)
         {
             this.name = name;
             this.color = color;
+            cat.catCome += this.RunAway;//把自身的逃跑方法注册进猫里面,订阅消息
         }
         public void RunAway()
         {
