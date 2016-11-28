@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012观察者设计模式猫
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013LINq", "013LINq\013LINq.csproj", "{C2AF0082-C554-4902-AC6F-AD8A9C0EBC9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014反射和特性", "014反射和特性\014反射和特性.csproj", "{53A88146-EEA1-4F7A-8092-9D350B5964DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{C2AF0082-C554-4902-AC6F-AD8A9C0EBC9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2AF0082-C554-4902-AC6F-AD8A9C0EBC9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2AF0082-C554-4902-AC6F-AD8A9C0EBC9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53A88146-EEA1-4F7A-8092-9D350B5964DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A88146-EEA1-4F7A-8092-9D350B5964DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53A88146-EEA1-4F7A-8092-9D350B5964DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A88146-EEA1-4F7A-8092-9D350B5964DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

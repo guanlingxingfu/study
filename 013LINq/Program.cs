@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Remoting.Activation;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -61,15 +62,54 @@ namespace _013LINq
             //    //select new {master = m,Kongfu = k};
             //    select m;
 
-            var res =
-                masterList.SelectMany(m => kongfuList, (m, k) => new {master = m, Kongfu = k})
-                    .Where(x => x.master.Kongfu == x.Kongfu.Name && x.Kongfu.Power > 90);
-            
 
-            foreach (var temp in res)
-            {
-                Console.WriteLine(temp);
-            }
+
+            //var res =
+            //    masterList.SelectMany(m => kongfuList, (m, k) => new {master = m, Kongfu = k})
+            //        .Where(x => x.master.Kongfu == x.Kongfu.Name && x.Kongfu.Power > 90);
+
+            //4.对象查询结果做排序
+            //var res = from m in masterList
+            //          where m.Level > 8 && m.Menpai == "丐帮" //通过&&添加并列的条件
+            //          orderby m.Level,m.Age
+            //          //from后面设置查询的集合//where后面跟上查询的条件
+            //          //where m.Level > 8
+            //          select m;//表示m的集合结果返回
+            //var res = masterList.Where(m =>m.Level > 8 /*&& m.Menpai == "丐帮"*/).OrderBy(m => m.Level).ThenBy(m =>m.Age)
+            //;
+
+            //5.join on 集合联合
+
+            //var res = from m in masterList
+            //    join k in kongfuList on m.Kongfu equals k.Name
+            //          where k.Power >90
+            //    select new {master = m, kongfu = k};            
+            
+            
+            //6分组查询into groups(把武林高手按照所学功夫分类，看一下那个功夫修炼的人最多)
+            //var res = from k in kongfuList
+            //    join m in masterList on k.Name equals m.Kongfu
+            //    into groups
+            //    orderby groups.Count()
+            //    select new {kongfu = k, count = groups.Count()};
+
+
+            //7按照自身字段分组group
+            //var res = from m in masterList
+            //    group m by m.Menpai
+            //    into g
+            //    select new {count = g.Count(), key = g.Key};//g.Key key表示是按照那个属性分的组
+            //8.量词操作符anyall 判断集合中是否满足某个条件
+           //bool res  = masterList.Any(m => m.Menpai == "长留");
+           // Console.WriteLine(res);
+
+            bool res = masterList.All(m => m.Menpai == "丐帮");
+            Console.WriteLine(res);
+
+            //foreach (var temp in res)
+            //{
+            //    Console.WriteLine(temp);
+            //}
             Console.ReadKey();
 
         }
