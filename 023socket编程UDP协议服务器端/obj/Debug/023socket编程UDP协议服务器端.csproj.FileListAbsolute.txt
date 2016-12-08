@@ -1,0 +1,6 @@
+F:\study\023socket编程UDP协议服务器端\bin\Debug\023socket编程UDP协议服务器端.exe.config
+F:\study\023socket编程UDP协议服务器端\bin\Debug\023socket编程UDP协议服务器端.exe
+F:\study\023socket编程UDP协议服务器端\bin\Debug\023socket编程UDP协议服务器端.pdb
+F:\study\023socket编程UDP协议服务器端\obj\Debug\023socket编程UDP协议服务器端.csprojResolveAssemblyReference.cache
+F:\study\023socket编程UDP协议服务器端\obj\Debug\023socket编程UDP协议服务器端.exe
+F:\study\023socket编程UDP协议服务器端\obj\Debug\023socket编程UDP协议服务器端.pdb

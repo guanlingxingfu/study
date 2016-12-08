@@ -1,0 +1,6 @@
+F:\study\016线程委托方式发起线程\bin\Debug\016线程委托方式发起线程.exe.config
+F:\study\016线程委托方式发起线程\bin\Debug\016线程委托方式发起线程.exe
+F:\study\016线程委托方式发起线程\bin\Debug\016线程委托方式发起线程.pdb
+F:\study\016线程委托方式发起线程\obj\Debug\016线程委托方式发起线程.exe
+F:\study\016线程委托方式发起线程\obj\Debug\016线程委托方式发起线程.pdb
+F:\study\016线程委托方式发起线程\obj\Debug\016线程委托方式发起线程.csprojResolveAssemblyReference.cache

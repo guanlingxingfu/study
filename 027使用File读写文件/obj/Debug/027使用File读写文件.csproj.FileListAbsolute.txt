@@ -1,0 +1,6 @@
+F:\study\027使用File读写文件\bin\Debug\027使用File读写文件.exe.config
+F:\study\027使用File读写文件\bin\Debug\TextFile1.txt
+F:\study\027使用File读写文件\bin\Debug\027使用File读写文件.exe
+F:\study\027使用File读写文件\bin\Debug\027使用File读写文件.pdb
+F:\study\027使用File读写文件\obj\Debug\027使用File读写文件.exe
+F:\study\027使用File读写文件\obj\Debug\027使用File读写文件.pdb

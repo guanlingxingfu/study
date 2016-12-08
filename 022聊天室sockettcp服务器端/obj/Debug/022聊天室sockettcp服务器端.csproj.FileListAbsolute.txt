@@ -1,0 +1,6 @@
+F:\study\022聊天室sockettcp服务器端\bin\Debug\022聊天室sockettcp服务器端.exe.config
+F:\study\022聊天室sockettcp服务器端\bin\Debug\022聊天室sockettcp服务器端.exe
+F:\study\022聊天室sockettcp服务器端\bin\Debug\022聊天室sockettcp服务器端.pdb
+F:\study\022聊天室sockettcp服务器端\obj\Debug\022聊天室sockettcp服务器端.csprojResolveAssemblyReference.cache
+F:\study\022聊天室sockettcp服务器端\obj\Debug\022聊天室sockettcp服务器端.exe
+F:\study\022聊天室sockettcp服务器端\obj\Debug\022聊天室sockettcp服务器端.pdb

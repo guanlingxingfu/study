@@ -1,0 +1,6 @@
+F:\study\017线程通过Thread发起线程\bin\Debug\017线程通过Thread发起线程.exe.config
+F:\study\017线程通过Thread发起线程\bin\Debug\017线程通过Thread发起线程.exe
+F:\study\017线程通过Thread发起线程\bin\Debug\017线程通过Thread发起线程.pdb
+F:\study\017线程通过Thread发起线程\obj\Debug\017线程通过Thread发起线程.csprojResolveAssemblyReference.cache
+F:\study\017线程通过Thread发起线程\obj\Debug\017线程通过Thread发起线程.exe
+F:\study\017线程通过Thread发起线程\obj\Debug\017线程通过Thread发起线程.pdb

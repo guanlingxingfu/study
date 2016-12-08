@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\网络变成客户端\003tcpclient\bin\Debug\003tcpclient.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\网络变成客户端\003tcpclient\bin\Debug\003tcpclient.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\网络变成客户端\003tcpclient\bin\Debug\003tcpclient.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\网络变成客户端\003tcpclient\obj\Debug\003tcpclient.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\网络变成客户端\003tcpclient\obj\Debug\003tcpclient.pdb

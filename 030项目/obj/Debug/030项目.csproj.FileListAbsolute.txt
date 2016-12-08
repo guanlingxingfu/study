@@ -1,0 +1,7 @@
+F:\study\030项目\bin\Debug\030项目.exe.config
+F:\study\030项目\obj\Debug\030项目.csprojResolveAssemblyReference.cache
+F:\study\030项目\bin\Debug\030项目.exe
+F:\study\030项目\bin\Debug\030项目.pdb
+F:\study\030项目\obj\Debug\030项目.exe
+F:\study\030项目\obj\Debug\030项目.pdb
+F:\study\030项目\bin\Debug\skillinfo.txt

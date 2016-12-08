@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\网络变成客户端\004udpclient\bin\Debug\004udpclient.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\网络变成客户端\004udpclient\bin\Debug\004udpclient.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\网络变成客户端\004udpclient\bin\Debug\004udpclient.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\网络变成客户端\004udpclient\obj\Debug\004udpclient.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\网络变成客户端\004udpclient\obj\Debug\004udpclient.pdb

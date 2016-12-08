@@ -1,0 +1,6 @@
+F:\study\023udp协议服务器端循环接收\bin\Debug\023udp协议服务器端循环接收.exe.config
+F:\study\023udp协议服务器端循环接收\bin\Debug\023udp协议服务器端循环接收.exe
+F:\study\023udp协议服务器端循环接收\bin\Debug\023udp协议服务器端循环接收.pdb
+F:\study\023udp协议服务器端循环接收\obj\Debug\023udp协议服务器端循环接收.csprojResolveAssemblyReference.cache
+F:\study\023udp协议服务器端循环接收\obj\Debug\023udp协议服务器端循环接收.exe
+F:\study\023udp协议服务器端循环接收\obj\Debug\023udp协议服务器端循环接收.pdb

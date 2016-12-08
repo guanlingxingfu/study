@@ -1,0 +1,6 @@
+F:\study\021socket编程tcp协议服务器端\bin\Debug\021socket编程tcp协议服务器端.exe.config
+F:\study\021socket编程tcp协议服务器端\bin\Debug\021socket编程tcp协议服务器端.exe
+F:\study\021socket编程tcp协议服务器端\bin\Debug\021socket编程tcp协议服务器端.pdb
+F:\study\021socket编程tcp协议服务器端\obj\Debug\021socket编程tcp协议服务器端.exe
+F:\study\021socket编程tcp协议服务器端\obj\Debug\021socket编程tcp协议服务器端.pdb
+F:\study\021socket编程tcp协议服务器端\obj\Debug\021socket编程tcp协议服务器端.csprojResolveAssemblyReference.cache

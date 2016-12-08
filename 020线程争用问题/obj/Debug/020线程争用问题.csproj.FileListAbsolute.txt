@@ -1,0 +1,5 @@
+F:\study\020线程争用问题\bin\Debug\020线程争用问题.exe.config
+F:\study\020线程争用问题\bin\Debug\020线程争用问题.exe
+F:\study\020线程争用问题\bin\Debug\020线程争用问题.pdb
+F:\study\020线程争用问题\obj\Debug\020线程争用问题.exe
+F:\study\020线程争用问题\obj\Debug\020线程争用问题.pdb

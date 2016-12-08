@@ -11,6 +11,8 @@ namespace _014反射和特性
         private int id;
         private int age;
         public string Name { get; set; }
+        public string Name2 { get; set; }
+        public string Name3 { get; set; }
 
         public void Test1()
         {

@@ -1,0 +1,7 @@
+F:\study\029使用StreamReader和StreamWriter读写文件文本\bin\Debug\029使用StreamReader和StreamWriter读写文件文本.exe.config
+F:\study\029使用StreamReader和StreamWriter读写文件文本\bin\Debug\029使用StreamReader和StreamWriter读写文件文本.exe
+F:\study\029使用StreamReader和StreamWriter读写文件文本\bin\Debug\029使用StreamReader和StreamWriter读写文件文本.pdb
+F:\study\029使用StreamReader和StreamWriter读写文件文本\obj\Debug\029使用StreamReader和StreamWriter读写文件文本.csprojResolveAssemblyReference.cache
+F:\study\029使用StreamReader和StreamWriter读写文件文本\obj\Debug\029使用StreamReader和StreamWriter读写文件文本.exe
+F:\study\029使用StreamReader和StreamWriter读写文件文本\obj\Debug\029使用StreamReader和StreamWriter读写文件文本.pdb
+F:\study\029使用StreamReader和StreamWriter读写文件文本\bin\Debug\TextFile1.txt

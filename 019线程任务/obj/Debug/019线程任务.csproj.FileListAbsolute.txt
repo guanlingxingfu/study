@@ -1,0 +1,6 @@
+F:\study\019线程任务\bin\Debug\019线程任务.exe.config
+F:\study\019线程任务\obj\Debug\019线程任务.csprojResolveAssemblyReference.cache
+F:\study\019线程任务\bin\Debug\019线程任务.exe
+F:\study\019线程任务\bin\Debug\019线程任务.pdb
+F:\study\019线程任务\obj\Debug\019线程任务.exe
+F:\study\019线程任务\obj\Debug\019线程任务.pdb

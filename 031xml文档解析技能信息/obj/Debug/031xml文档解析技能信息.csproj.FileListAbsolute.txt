@@ -1,0 +1,7 @@
+F:\study\031xml文档解析技能信息\bin\Debug\031xml文档解析技能信息.exe.config
+F:\study\031xml文档解析技能信息\bin\Debug\xml技能信息.txt
+F:\study\031xml文档解析技能信息\bin\Debug\031xml文档解析技能信息.exe
+F:\study\031xml文档解析技能信息\bin\Debug\031xml文档解析技能信息.pdb
+F:\study\031xml文档解析技能信息\obj\Debug\031xml文档解析技能信息.csprojResolveAssemblyReference.cache
+F:\study\031xml文档解析技能信息\obj\Debug\031xml文档解析技能信息.exe
+F:\study\031xml文档解析技能信息\obj\Debug\031xml文档解析技能信息.pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\网络变成客户端\002socket编程udp协议客户端\bin\Debug\002socket编程udp协议客户端.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\网络变成客户端\002socket编程udp协议客户端\bin\Debug\002socket编程udp协议客户端.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\网络变成客户端\002socket编程udp协议客户端\bin\Debug\002socket编程udp协议客户端.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\网络变成客户端\002socket编程udp协议客户端\obj\Debug\002socket编程udp协议客户端.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\网络变成客户端\002socket编程udp协议客户端\obj\Debug\002socket编程udp协议客户端.pdb

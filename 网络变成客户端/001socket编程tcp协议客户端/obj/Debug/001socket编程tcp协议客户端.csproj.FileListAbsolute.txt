@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\网络变成客户端\001socket编程tcp协议客户端\bin\Debug\001socket编程tcp协议客户端.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\网络变成客户端\001socket编程tcp协议客户端\bin\Debug\001socket编程tcp协议客户端.exe
+c:\users\administrator\documents\visual studio 2015\Projects\网络变成客户端\001socket编程tcp协议客户端\bin\Debug\001socket编程tcp协议客户端.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\网络变成客户端\001socket编程tcp协议客户端\obj\Debug\001socket编程tcp协议客户端.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\网络变成客户端\001socket编程tcp协议客户端\obj\Debug\001socket编程tcp协议客户端.exe
+c:\users\administrator\documents\visual studio 2015\Projects\网络变成客户端\001socket编程tcp协议客户端\obj\Debug\001socket编程tcp协议客户端.pdb

@@ -1,0 +1,6 @@
+F:\study\024tcplistener\bin\Debug\024tcplistener.exe.config
+F:\study\024tcplistener\bin\Debug\024tcplistener.exe
+F:\study\024tcplistener\bin\Debug\024tcplistener.pdb
+F:\study\024tcplistener\obj\Debug\024tcplistener.csprojResolveAssemblyReference.cache
+F:\study\024tcplistener\obj\Debug\024tcplistener.exe
+F:\study\024tcplistener\obj\Debug\024tcplistener.pdb

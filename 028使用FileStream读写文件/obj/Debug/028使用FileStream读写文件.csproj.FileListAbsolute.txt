@@ -1,0 +1,8 @@
+F:\study\028使用FileStream读写文件\bin\Debug\028使用FileStream读写文件.exe.config
+F:\study\028使用FileStream读写文件\bin\Debug\TextFile1.txt
+F:\study\028使用FileStream读写文件\bin\Debug\028使用FileStream读写文件.exe
+F:\study\028使用FileStream读写文件\bin\Debug\028使用FileStream读写文件.pdb
+F:\study\028使用FileStream读写文件\obj\Debug\028使用FileStream读写文件.csprojResolveAssemblyReference.cache
+F:\study\028使用FileStream读写文件\obj\Debug\028使用FileStream读写文件.exe
+F:\study\028使用FileStream读写文件\obj\Debug\028使用FileStream读写文件.pdb
+F:\study\028使用FileStream读写文件\bin\Debug\IMG_1023.JPG

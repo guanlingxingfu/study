@@ -1,0 +1,6 @@
+F:\study\025udpclient\bin\Debug\025udpclient.exe.config
+F:\study\025udpclient\bin\Debug\025udpclient.exe
+F:\study\025udpclient\bin\Debug\025udpclient.pdb
+F:\study\025udpclient\obj\Debug\025udpclient.csprojResolveAssemblyReference.cache
+F:\study\025udpclient\obj\Debug\025udpclient.exe
+F:\study\025udpclient\obj\Debug\025udpclient.pdb

@@ -1,0 +1,7 @@
+F:\study\026文件操作察看文件和文件夹信息\bin\Debug\026文件操作察看文件和文件夹信息.exe.config
+F:\study\026文件操作察看文件和文件夹信息\bin\Debug\026文件操作察看文件和文件夹信息.exe
+F:\study\026文件操作察看文件和文件夹信息\bin\Debug\026文件操作察看文件和文件夹信息.pdb
+F:\study\026文件操作察看文件和文件夹信息\obj\Debug\026文件操作察看文件和文件夹信息.csprojResolveAssemblyReference.cache
+F:\study\026文件操作察看文件和文件夹信息\obj\Debug\026文件操作察看文件和文件夹信息.exe
+F:\study\026文件操作察看文件和文件夹信息\obj\Debug\026文件操作察看文件和文件夹信息.pdb
+F:\study\026文件操作察看文件和文件夹信息\bin\Debug\TextFile1.txt
